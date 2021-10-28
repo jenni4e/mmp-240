@@ -1,0 +1,48 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+h1{
+  color: teal;
+  font-family: "ARIAL BLACK",sans-serif;
+
+
+}
+
+i{
+  color: maroon;
+}
+
+p, ul, ol, h2{
+  margin-bottom:1rem;
+  margin-top:1rem;
+}
+
+
+h2{
+  color: teal;
+  margin-bottom: 0;
+  margin-top: 1.5rem;
+}
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+div{
+  max-width: 1000px;
+  background-color: lavender;
+  border:solid 4px maroon;
+  padding:1rem;
+  margin-left:1rem;
+}
+
+img{
+  max-width: 100%;
+
+}
+
+ul, ol{
+  margin-left:1rem;
+}
