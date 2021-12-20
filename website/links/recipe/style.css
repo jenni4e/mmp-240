@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+h1{
+  color: teal;
+  font-family:cursive;
+}
+
+p, ul, ol, h2{
+  margin-bottom:1rem; /*1 rem is equal to the font size of the paragraph*/
+  margin-top:1rem;
+}
+
+
+h2{
+  color: maroon;
+  margin-bottom: 0;
+  margin-top: 1.5rem;
+}
+
+body {
+  font-family: sans-serif;
+}
+div{
+  max-width: 1000px;
+  background-color: lavenderblush;
+  border:solid 4px lightpink;
+  padding:1rem;
+  margin-left:1rem;
+}
+
+img{
+  max-width: 100%;
+}
+
+ul, ol{
+  margin-left:1rem;
+}
